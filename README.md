@@ -1,8 +1,9 @@
 # blurplemachine
 reverts discord's colors back to blurple automatically
 
-## HOW TO
+## Use my example index.js if you are lazy (might not work in future)
 
+## HOW TO
 In discords data under modules you can find "discord_voice-3". Inside the folder "discrd_voice"
 For example on windows (yes ik very cringe) the file path would look like this:
 > C:\Users\You\AppData\Local\Discord\app-1.0.9002\modules\discord_voice-3\discord_voice\index.js
