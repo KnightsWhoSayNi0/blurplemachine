@@ -6,7 +6,7 @@ reverts discord's colors back to blurple automatically
 ## HOW TO
 In discords data under modules you can find "discord_voice-3". Inside the folder "discrd_voice"
 For example on windows (yes ik very cringe) the file path would look like this:
-> C:\Users\You\AppData\Local\Discord\app-1.0.9002\modules\discord_voice-3\discord_voice\index.js
+> C:\Users\You\AppData\Local\Discord\app-1.0.9002\modules\discord_voice-4\discord_voice\index.js
 
 Edit this file with the editor of your choice.
 
@@ -23,3 +23,5 @@ Discord should now revert to it's correct colors on startup and you should see t
 ## Other Stuff
 This is a really simple fix so I hope I didn't screw anything up lol.
 If you have any questions/comments please feel free to contact me.
+
+updated 7/17 for discord voice 4
